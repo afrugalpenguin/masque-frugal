@@ -2,7 +2,7 @@
 
 A flat, square, dark skin for [Masque](https://www.curseforge.com/wow/addons/masque).
 
-![Masque: Frugal](logo.svg)
+![Masque: Frugal](logo.png)
 
 ## About
 
