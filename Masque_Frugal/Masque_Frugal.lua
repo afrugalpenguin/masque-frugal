@@ -47,6 +47,9 @@ Masque:AddSkin("Frugal", {
         Width = 36,
         Height = 36,
     },
+    Disabled = {
+        Hide = true,
+    },
     Pushed = {
         Color = {0, 0, 0, 0.5},
         DrawLayer = "BORDER",
@@ -79,6 +82,9 @@ Masque:AddSkin("Frugal", {
     DebuffBorder = "Border",
     EnchantBorder = "Border",
     IconBorder = "Border",
+    Gloss = {
+        Hide = true,
+    },
     NewAction = {
         Texture = BORDER,
         Color = {1, 1, 0.8, 1},
