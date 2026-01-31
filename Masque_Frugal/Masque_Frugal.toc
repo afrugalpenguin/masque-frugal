@@ -2,7 +2,7 @@
 ## Title: Masque: Frugal
 ## Notes: A flat, square, dark skin for Masque.
 ## Author: A Frugalpenguin
-## Version: 1.0.0
+## Version: @project-version@
 ## Dependencies: Masque
 
 Masque_Frugal.lua

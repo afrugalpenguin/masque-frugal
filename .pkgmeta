@@ -1,0 +1,7 @@
+package-as: Masque_Frugal
+
+ignore:
+  - .github
+  - logo.svg
+  - README.md
+  - .gitignore
