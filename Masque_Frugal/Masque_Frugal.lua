@@ -13,7 +13,7 @@ Masque:AddSkin("Frugal", {
     -- [ Info ]
     Author = "A Frugalpenguin",
     Description = "Flat, square, dark skin with thin black borders.",
-    Version = "1.0.0",
+    Version = "1.1.0",
     Websites = {},
 
     -- [ Skin ]

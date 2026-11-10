@@ -1,4 +1,4 @@
-## Interface: 20505
+## Interface: 20506, 16001
 ## Title: Masque: Frugal
 ## Notes: A flat, square, dark skin for Masque.
 ## Author: A Frugalpenguin
